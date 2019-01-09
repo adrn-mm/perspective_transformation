@@ -5,3 +5,4 @@ Steps:
 1. Install the dependencies: opencv, numpy.
 2. Run the perspective_transformation.py
 3. You can change the edges of the detected object and the perspective by the numbers inside the matrix.
+![alt text](https://github.com/adriantoto/perspective_transformation/blob/master/perspective_transformation.JPG)
