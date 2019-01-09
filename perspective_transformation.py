@@ -6,6 +6,7 @@ Created on Fri Dec 28 19:16:01 2018
 """
 # Libraries
 import numpy as np
+import cv2
 
 # Open webcam 
 cap = cv2.VideoCapture(0)
